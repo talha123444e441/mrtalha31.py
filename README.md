@@ -1,2 +1,3 @@
-# mrtalha31.py
-cd mrtalha31
+#cd mrtalha31
+#mrtalha31.py
+
